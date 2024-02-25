@@ -1,0 +1,16 @@
+*
+{
+    background: peachpuff;
+}
+#flex-box{
+   outline: 2px solid red; 
+   display: flex;
+   flex-direction: column;
+}
+p{
+    padding: 5px;
+    align-self: auto;
+    border: 2px;
+    /* height: 100%--; */
+    border-color: aqua;
+}
